@@ -1,0 +1,16 @@
+.listContainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.container img {
+  margin: 0 auto;
+  height: 300px;
+}
